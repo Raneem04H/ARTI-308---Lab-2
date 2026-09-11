@@ -3,7 +3,7 @@
 ## Part 1: Problem Definition
 - **Problem Type:** Regression
 - **Target Variable:** `medv` (Median value of owner-occupied homes in $1000's)
-- **Problem Description:** The goal of this project is to build a Machine Learning regression model that predicts house prices based on various features such as crime rate, number of rooms, and property tax rates.
+- **Problem Description:** The goal of this project is to build a Machine Learning regression model that predicts house prices based on various features such as crime rate, number of rooms, and property tax rates. 
 
 ## Part 2: Open Dataset
 - **Dataset Name:** Boston Housing Dataset
